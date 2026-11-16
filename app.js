@@ -11,7 +11,7 @@ const BILLING = 'https://store.microsoft.com/billing';
 const PRODUCTS = { monthly: 'ff_monthly', yearly: 'ff_yearly', lifetime: 'ff_lifetime' };
 const PRODUCT_ORDER = [PRODUCTS.yearly, PRODUCTS.monthly, PRODUCTS.lifetime];
 // Microsoft Store ID (Partner Center > Product identity). Empty until the name is reserved.
-const STORE_ID = '';
+const STORE_ID = '9NXWB06Q1WC2';
 const LINKS = {
   base: 'https://joykhansayan1.github.io/firefighter-exam-prep-windows',
   get privacy() { return this.base + '/privacy.html'; },
@@ -20,7 +20,7 @@ const LINKS = {
   store: STORE_ID ? `https://apps.microsoft.com/detail/${STORE_ID}` : 'https://apps.microsoft.com/search?query=Firefighter%20Exam%20Prep%202026',
   manageSubscriptions: 'https://account.microsoft.com/services'
 };
-const DISCLAIMER = "Firefighter Exam Prep 2026 is an independent study aid and is not affiliated with, authorized, endorsed by, or sponsored by any fire department, civil service commission, or test publisher. All trademarks are the property of their respective owners. All practice questions are original and were written based on publicly available exam objectives.";
+const DISCLAIMER = "Firefighter Exam Prep: 2026 is an independent study aid and is not affiliated with, authorized, endorsed by, or sponsored by any fire department, civil service commission, or test publisher. All trademarks are the property of their respective owners. All practice questions are original and were written based on publicly available exam objectives.";
 // Practice mock: 100 questions, 150 minutes, 70% pass line (real tests vary by department).
 const PASS = 70;
 const TRACKS = {
@@ -423,7 +423,7 @@ function ring(value, label, caption, color, size = 160) {
     <circle cx="60" cy="60" r="${r}" fill="none" stroke="${color}" stroke-width="12" stroke-linecap="round" stroke-dasharray="${c * v} ${c}"/></svg>
     <div class="lbl"><b style="font-size:${size < 130 ? 24 : 32}px">${esc(label)}</b><span>${esc(caption)}</span></div></div>`;
 }
-const splash = () => `<div class="splash"><img class="logo" src="icons/logo.png" alt=""><h2>Firefighter Exam Prep 2026</h2><div class="muted">Practice Tests &amp; Study Guide</div><div class="spinner"></div></div>`;
+const splash = () => `<div class="splash"><img class="logo" src="icons/logo.png" alt=""><h2>Firefighter Exam Prep: 2026</h2><div class="muted">Practice Tests &amp; Study Guide</div><div class="spinner"></div></div>`;
 const trackSwitch = () => Object.keys(TRACKS).length < 2 ? '' : `<div class="seg" role="tablist" style="min-width:250px">${Object.entries(TRACKS).map(([k, t]) => `<button class="${P.track === k ? 'on' : ''}" data-act="set-track" data-arg="${k}" role="tab" aria-selected="${P.track === k}">${t.short}</button>`).join('')}</div>`;
 
 function modal(title, message, buttons) {
@@ -461,7 +461,7 @@ const Onboarding = {
     if (s === 0) {
       body = `<div class="stack center" style="padding-top:24px">
         <img class="logo" src="icons/logo.png" alt="">
-        <h1 style="font-size:32px">Firefighter Exam Prep 2026</h1>
+        <h1 style="font-size:32px">Firefighter Exam Prep: 2026</h1>
         <div class="muted">Everything you need to pass your firefighter written exam: 230+ realistic original questions, full-length timed mocks, study guides, and progress that shows exactly what to study next. Works 100% offline.</div>
         <div class="tiny muted" style="margin-top:12px">${esc(DISCLAIMER)}</div></div>`;
     } else if (s === 1) {
@@ -545,7 +545,7 @@ const Paywall = {
     ];
     let plans, cta;
     if (!Store.available) {
-      plans = `<div class="card flat small muted center">Purchases are handled by the Microsoft Store. Install Firefighter Exam Prep 2026 from the Microsoft Store on Windows to unlock monthly, yearly or lifetime access.</div>`;
+      plans = `<div class="card flat small muted center">Purchases are handled by the Microsoft Store. Install Firefighter Exam Prep: 2026 from the Microsoft Store on Windows to unlock monthly, yearly or lifetime access.</div>`;
       cta = `<a class="btn navy" href="${LINKS.store}" target="_blank" rel="noopener">Get it from Microsoft Store</a>`;
     } else if (!Store.details.length) {
       plans = Store.error ? `<div class="error">${esc(Store.error)}</div><button class="btn secondary" data-act="pw-reload">Refresh prices</button>` : `<div class="center"><div class="spinner" style="margin:12px auto"></div><div class="small muted">Loading options…</div></div>`;
