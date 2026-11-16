@@ -1,5 +1,5 @@
 // Offline-first cache for the app shell and bundled question bank.
-const VERSION = 'ffexam-v1.0.0';
+const VERSION = 'ffexam-v1.0.1';
 const SHELL = [
   './',
   'index.html',
