@@ -1,0 +1,1015 @@
+{
+ "version": 1,
+ "sections": [
+  {
+   "id": "basics",
+   "title": "Exam Basics",
+   "icon": "info",
+   "summary": "What the firefighter written exam looks like, how to plan your study, and how to handle test day. Formats vary by department, so always check your candidate guide.",
+   "topics": [
+    {
+     "id": "overview",
+     "title": "About the Firefighter Written Exam",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "The firefighter written exam is the entrance test many departments use early in the hiring process. This is general guidance about what such tests commonly include; it does not describe any single vendor's exam, and details vary by city, state, and test publisher. Always read the official bulletin for the department you are applying to."
+      },
+      {
+       "type": "paragraph",
+       "text": "Common section types:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Reading comprehension using manuals, reports, and policies.",
+        "Basic math and arithmetic, including fractions, percentages, and simple geometry.",
+        "Mechanical reasoning with levers, pulleys, gears, and hydraulics.",
+        "Spatial and map or floor-plan orientation.",
+        "Verbal reasoning, vocabulary, and logic.",
+        "Situational judgment and human relations.",
+        "Memory and observation, where you study material then answer from recall."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Scoring and passing: Most exams report a percentage score, and many require a minimum passing mark, often around 70 percent, though this differs by agency. Some departments rank candidates by score and add points for veterans or local residency, so a higher score can move you up the eligibility list. Passing is usually only one step; physical tests, interviews, and background checks follow."
+      },
+      {
+       "type": "paragraph",
+       "text": "Why preparation matters:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "The material is learnable, and steady practice clearly raises scores.",
+        "Familiarity with question types reduces test-day anxiety.",
+        "A strong written score can determine whether you advance at all."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tip: Treat preparation like training for the job itself. Build a study schedule, practice each section, review your mistakes, and focus extra time on your weakest areas. Confidence on exam day comes from honest, consistent practice."
+      }
+     ]
+    },
+    {
+     "id": "testday",
+     "title": "Test-Day Strategy",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "How you manage exam day can be worth real points. A calm, prepared candidate performs closer to their true ability."
+      },
+      {
+       "type": "paragraph",
+       "text": "The night before: Get a full night of sleep rather than cramming late. Lay out your clothes, directions, and required items. Eat a normal meal and avoid heavy caffeine or anything that disrupts your routine."
+      },
+      {
+       "type": "paragraph",
+       "text": "What to bring:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Valid photo identification and your admission or confirmation notice.",
+        "Approved pencils or pens as the bulletin specifies.",
+        "A watch if allowed, plus any permitted calculator.",
+        "Arrive early to find the location, park, and settle your nerves."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Timing: Note how many questions and minutes you have, then set a rough pace. Do not stall on one tough item; mark it, move on, and return if time remains. Keep an eye on the clock at checkpoints, such as the halfway mark."
+      },
+      {
+       "type": "paragraph",
+       "text": "Process of elimination: Cross out answers you know are wrong to raise your odds on the rest. Watch for absolute words and choices that are off-topic."
+      },
+      {
+       "type": "paragraph",
+       "text": "Guessing strategy: If there is no penalty for wrong answers, never leave a blank; guess after eliminating what you can. If wrong answers are penalized, guess only when you can rule out at least one or two options."
+      },
+      {
+       "type": "paragraph",
+       "text": "Managing anxiety:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Breathe slowly and deeply if you feel rushed.",
+        "Read each question fully before answering.",
+        "Trust your preparation and your first reasoned answer."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tip: Use every minute. Review flagged questions and check that your answer sheet matches your intended responses before time is called."
+      }
+     ]
+    },
+    {
+     "id": "studyplan",
+     "title": "Building a Study Plan",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "A good study plan turns a huge exam into a series of small, winnable days. You do not need to study for hours; you need to study smart and stay consistent."
+      },
+      {
+       "type": "paragraph",
+       "text": "Start by assessing your weak areas. Take a short diagnostic across each domain, math, mechanical reasoning, reading, and judgment, and note where you score lowest. Spend most of your effort there. It is tempting to practice what you already enjoy, but the biggest score gains come from fixing weaknesses."
+      },
+      {
+       "type": "paragraph",
+       "text": "Schedule short daily sessions instead of rare marathons. Thirty to forty-five focused minutes a day beats a single four-hour cram session. Your brain retains more from frequent, spaced contact with the material. Put the sessions on your calendar at a fixed time so they become a habit."
+      },
+      {
+       "type": "paragraph",
+       "text": "Use spaced repetition and flashcards for facts and formulas. Review new material today, again in a few days, then again a week later. Each repetition just before you would forget locks it into long-term memory. Flashcards are perfect for formulas, vocabulary, and definitions you must recall instantly."
+      },
+      {
+       "type": "paragraph",
+       "text": "Take timed mock exams regularly. The real test is timed, so practice under the clock to build pacing and reduce anxiety. Mocks reveal which sections slow you down and train you to move on when a question stalls you."
+      },
+      {
+       "type": "paragraph",
+       "text": "Review every mistake. This is the single most valuable habit. For each wrong answer, figure out why you missed it and what the correct reasoning was. A missed question you understand becomes a point you will earn on test day."
+      },
+      {
+       "type": "paragraph",
+       "text": "Assess, schedule, repeat, simulate, and review. Trust the process, stay steady, and your scores will climb."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guides",
+   "title": "Section Study Guides",
+   "icon": "book",
+   "summary": "Guides for each of the six tested skill areas: mechanical reasoning, reading, math, spatial reasoning, situational judgment, and verbal and logical reasoning.",
+   "topics": [
+    {
+     "id": "mechanical",
+     "title": "Mechanical Reasoning Study Guide",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Mechanical reasoning questions test how everyday machines move force. You do not need advanced math, just a feel for trade-offs: a simple machine trades distance for force, never giving something for nothing."
+      },
+      {
+       "type": "paragraph",
+       "text": "Levers: Effort x effort arm = load x load arm. The longer the side you push on, the easier the lift. A crowbar and a wheelbarrow are levers."
+      },
+      {
+       "type": "paragraph",
+       "text": "Pulleys: A single fixed pulley only changes direction. Each additional supporting rope segment divides the effort. Count the rope strands holding the load; four strands means about one-quarter the pull, but you must pull four times the distance."
+      },
+      {
+       "type": "paragraph",
+       "text": "Gears: When two gears mesh, they turn in opposite directions. A small gear driving a large gear turns slower but with more torque. Gear ratio = driven teeth / driver teeth."
+      },
+      {
+       "type": "paragraph",
+       "text": "Hydraulics: Pressure is equal throughout an enclosed fluid. A small piston can lift a large load if the big piston has more area. Force out = pressure x area, so more area means more force but less movement."
+      },
+      {
+       "type": "paragraph",
+       "text": "Mechanical advantage (MA): MA = load / effort = distance moved by effort / distance moved by load. MA greater than 1 means the machine multiplies your force."
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Effort x effort distance = Load x load distance"
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tips:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "More mechanical advantage almost always means more distance or effort travel.",
+        "Larger wheel or longer arm equals easier effort.",
+        "Closer to the fulcrum equals more force needed.",
+        "Trust common sense; visualize the motion before calculating."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mechmistakes",
+     "title": "Common Mechanical Mistakes",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Mechanical reasoning questions reward clear thinking about simple machines. Avoid these frequent traps."
+      },
+      {
+       "type": "paragraph",
+       "text": "Forgetting the force-versus-distance trade-off. Machines do not create free energy. When a lever or pulley lets you lift with less force, you must pull a greater distance. If a system halves the effort, you pull roughly twice as far. Less force always costs more distance, and the reverse is true too."
+      },
+      {
+       "type": "paragraph",
+       "text": "Miscounting pulley strands. The mechanical advantage of a block and tackle equals the number of rope strands actually supporting the load, not the total number of pulleys. Count only the rope segments pulling up on the moving block. More supporting strands means less effort but more rope to haul."
+      },
+      {
+       "type": "paragraph",
+       "text": "Getting gear direction wrong. Two meshed gears always spin in opposite directions. Add a third gear between them, an idler, and the first and last gears now spin the same way. Idlers change direction but not speed or torque. Count your gears carefully before answering."
+      },
+      {
+       "type": "paragraph",
+       "text": "Confusing pressure and force.\nA small piston with high pressure can still produce large force over a big area. Read whether the question asks for pressure or total force."
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Pressure = force / area"
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Force = pressure x area"
+      },
+      {
+       "type": "paragraph",
+       "text": "Ignoring friction loss in hose. Smaller-diameter hose creates much more friction loss than larger hose at the same flow. Pushing the same gallons through a narrow line drops more pressure, so larger hose delivers water more efficiently over distance."
+      },
+      {
+       "type": "paragraph",
+       "text": "Slow down, picture the mechanism moving, and check the trade-off. These habits turn tricky questions into easy points."
+      }
+     ]
+    },
+    {
+     "id": "reading",
+     "title": "Reading Comprehension Strategies",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Reading comprehension on the firefighter exam often uses passages drawn from manuals, policies, and reports. The skill being tested is finding and using information accurately, not memorizing it."
+      },
+      {
+       "type": "paragraph",
+       "text": "Main idea: Ask what the passage is mostly about. The main idea is usually broad enough to cover every paragraph. Watch the first and last sentences, but be careful: the correct answer summarizes the whole passage, not one detail."
+      },
+      {
+       "type": "paragraph",
+       "text": "Locating details: For specific questions, scan back to the exact word or number in the text. Do not rely on memory. The right answer is supported directly by the passage, even if the wording is changed."
+      },
+      {
+       "type": "paragraph",
+       "text": "Inferences: Some questions ask what must be true based on the text. A good inference is a small, logical step from stated facts, never a wild guess. If you cannot point to supporting lines, it is probably wrong."
+      },
+      {
+       "type": "paragraph",
+       "text": "Managing time:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Read the passage once at a steady pace to grasp the structure.",
+        "Read the question before re-scanning for details.",
+        "Answer based only on the passage, not outside knowledge or opinion.",
+        "Eliminate choices that are too extreme (always, never, all) unless the text says so.",
+        "Flag a hard question and move on; do not let one passage drain your clock."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tip: When two answers seem close, pick the one more fully supported by the text. The exam rewards precise readers who stick to what is written, not what they assume. Practice reading dense, factual material to build stamina and speed."
+      }
+     ]
+    },
+    {
+     "id": "math",
+     "title": "Math Refresher & Formulas",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Firefighter math is practical arithmetic: fractions, percentages, ratios, conversions, and simple geometry. Work neatly and keep your units consistent."
+      },
+      {
+       "type": "paragraph",
+       "text": "Fractions: To add or subtract, find a common denominator. To multiply, multiply across. To divide, flip the second fraction and multiply."
+      },
+      {
+       "type": "paragraph",
+       "text": "Percentages: Percent means per hundred. Part = whole x (percent / 100). To find what percent one number is of another, divide part by whole and multiply by 100."
+      },
+      {
+       "type": "paragraph",
+       "text": "Ratios and proportions: A ratio compares quantities, like 3:2. Solve proportions by cross-multiplying: if a/b = c/d, then a x d = b x c."
+      },
+      {
+       "type": "paragraph",
+       "text": "Unit conversions: 1 foot = 12 inches, 1 yard = 3 feet, 1 mile = 5,280 feet. 1 gallon = approximately 3.785 liters. 1 hour = 60 minutes. Cancel units as you go so the wrong ones drop out."
+      },
+      {
+       "type": "paragraph",
+       "text": "Area and volume:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Rectangle area = length x width",
+        "Triangle area = 1/2 x base x height",
+        "Circle area = pi x radius squared (pi is about 3.14)",
+        "Box volume = length x width x height"
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Rate and flow: Rate problems use distance = rate x time. For water flow, gallons per minute (GPM) = total gallons / minutes. Rearrange to find any missing piece."
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "GPM = gallons / minutes"
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tips:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Estimate first so you catch unreasonable answers.",
+        "Convert all measurements to the same unit before calculating.",
+        "Double-check decimal placement on percentages.",
+        "Show your steps; careless errors cost more points than hard concepts."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "formulas",
+     "title": "Quick Formula Cheat Sheet",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Keep these formulas at your fingertips. Most firefighter exam math problems reduce to one of them."
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Percent = (part / whole) x 100"
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Percent change = ((new - old) / old) x 100"
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Average = sum of values / number of values"
+      },
+      {
+       "type": "paragraph",
+       "text": "For ratios and proportions, set up two equal fractions and cross-multiply. If 3 firefighters use 12 gallons, how many do 5 use? Write 3/12 = 5/x, then 3x = 60, so x = 20."
+      },
+      {
+       "type": "paragraph",
+       "text": "Area formulas describe flat space:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Rectangle: Area = length x width",
+        "Triangle: Area = (1/2) x base x height",
+        "Circle: Area = pi x radius squared (use 3.14 for pi)"
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Volume formulas describe space inside an object:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Box: Volume = length x width x height",
+        "Cylinder: Volume = pi x radius squared x height"
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Flow and motion show up often on the job:"
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "GPM = gallons / minutes (flow rate)"
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Distance = rate x time"
+      },
+      {
+       "type": "paragraph",
+       "text": "To work backward, rearrange: rate = distance / time, and time = distance / rate."
+      },
+      {
+       "type": "paragraph",
+       "text": "Converting tank volume to gallons is a classic firefighter calculation:"
+      },
+      {
+       "type": "formula",
+       "label": "Key formula",
+       "text": "Gallons = cubic feet x 7.48"
+      },
+      {
+       "type": "paragraph",
+       "text": "So a tank holding 100 cubic feet of water holds about 748 gallons."
+      },
+      {
+       "type": "paragraph",
+       "text": "Write the formula down first, plug in numbers second, then solve. Watch your units throughout. Master these basics and you will handle the majority of exam math with confidence."
+      }
+     ]
+    },
+    {
+     "id": "wordproblems",
+     "title": "Tackling Word Problems",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Word problems feel harder than they are because the math is hidden inside a story. Your job is to translate the words into numbers and operations."
+      },
+      {
+       "type": "paragraph",
+       "text": "Start by reading the whole problem once before doing anything. Identify exactly what is being asked, then underline the numbers and key phrases."
+      },
+      {
+       "type": "paragraph",
+       "text": "Learn the words that signal each operation:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Total, sum, combined, altogether mean add",
+        "Difference, remaining, less than, how many more mean subtract",
+        "Each, per, product, times mean multiply",
+        "Split, shared equally, per unit, ratio mean divide"
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Watch your units closely. If a problem mixes minutes and hours, or feet and yards, convert everything to the same unit before calculating. Many wrong answers come from a units slip, not a math error. The answer choices often include a trap value that matches the unconverted number."
+      },
+      {
+       "type": "paragraph",
+       "text": "Estimate before you solve. Round the numbers and predict a rough answer. If a hose delivers about 150 gallons per minute for roughly 10 minutes, expect around 1,500 gallons. If your exact calculation lands at 150 or 15,000, you know to recheck."
+      },
+      {
+       "type": "paragraph",
+       "text": "For multi-step problems, handle one step at a time and write down each result. Do not try to hold everything in your head. Solve the first piece, label it, then use it in the next piece. Order matters: figure out what you must know first before you can find the final answer."
+      },
+      {
+       "type": "paragraph",
+       "text": "Finish by rereading the question to confirm you answered what was actually asked, in the unit requested. Translate, compute, estimate, and check. With practice these become automatic."
+      }
+     ]
+    },
+    {
+     "id": "spatial",
+     "title": "Spatial & Orientation Tips",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Spatial questions test how well you picture objects, directions, and routes in your mind. Firefighters use this skill constantly when navigating smoke-filled buildings and reading maps under pressure."
+      },
+      {
+       "type": "paragraph",
+       "text": "Compass directions: North is up on most maps. Moving clockwise: North, East, South, West. Remember the order with Never Eat Soggy Waffles. Northeast sits between north and east, and so on. If you turn right from facing north, you now face east."
+      },
+      {
+       "type": "paragraph",
+       "text": "Rotations: When a shape rotates 90 degrees clockwise, the top moves to the right side. A 180-degree turn flips it upside down. Practice by mentally turning letters or simple figures, or trace the motion with your finger."
+      },
+      {
+       "type": "paragraph",
+       "text": "Map and route reading: Follow the path step by step rather than jumping to the end. Track your facing direction at each turn, because left and right change depending on which way you are headed. Note landmarks and street names."
+      },
+      {
+       "type": "paragraph",
+       "text": "Floor-plan navigation:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Find your start point and the goal first.",
+        "Trace the route slowly, counting turns and doors.",
+        "Re-orient at every corner; your left is not the map's left if you have turned.",
+        "Watch for the shortest legal path when asked, and obey one-way arrows or blocked exits."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tips:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Physically rotate the test booklet if allowed; it makes mental rotation easier.",
+        "Mark your facing direction with a small arrow as you go.",
+        "Eliminate routes that pass through walls or break a stated rule.",
+        "Slow, careful tracing beats quick guessing on these problems."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "judgment",
+     "title": "Situational Judgment Principles",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Situational judgment questions describe a workplace scenario and ask what you should do. There is rarely a math-style single right answer; instead, the test rewards choices that reflect fire-service values."
+      },
+      {
+       "type": "paragraph",
+       "text": "Core values to weigh:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Safety first: Protect life, including your own and your crew's, before property. Choices that reduce risk usually rank highest.",
+        "Teamwork: Firefighters succeed as a crew. Favor cooperation, clear communication, and supporting fellow members.",
+        "Chain of command: Report problems through proper channels and follow lawful orders. Do not go over a supervisor's head without cause.",
+        "Integrity: Be honest, admit mistakes, and never falsify records. Doing the right thing even when no one is watching matters.",
+        "Public service: Treat citizens with respect, patience, and fairness regardless of the situation."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "How to pick the BEST answer:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Look for the response that keeps people safe and follows procedure.",
+        "Avoid extremes: ignoring a problem or overreacting are usually wrong.",
+        "Choose action over inaction when safety or honesty is at stake.",
+        "Prefer answers that address the issue directly rather than passing blame or avoiding responsibility.",
+        "Eliminate options that involve dishonesty, rule-breaking, or treating others poorly."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tip: Imagine how an experienced, professional firefighter would want a teammate to act. Many questions offer two reasonable choices and two clearly poor ones; remove the poor ones first, then decide which good option best balances safety, teamwork, and procedure. Stay calm and think like a dependable team member, not a lone hero."
+      }
+     ]
+    },
+    {
+     "id": "sjt",
+     "title": "Reading Situational Questions",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Situational judgment questions test how you would act on the job. There is usually no trick, but there is a clear best answer if you read carefully."
+      },
+      {
+       "type": "paragraph",
+       "text": "First, find the exact wording of the question. Asking for the BEST response is very different from asking for the LEAST appropriate or the FIRST thing you should do. Many mistakes come from answering the opposite of what was asked. Underline that key word before reading the options."
+      },
+      {
+       "type": "paragraph",
+       "text": "Eliminate the extremes. Firefighting is about measured, professional action. Answers that tell you to ignore a problem, do nothing, or look the other way are almost always wrong. So are answers that overreact: yelling at a coworker, abandoning your post, or taking drastic action without checking facts. The right choice usually sits in the reasonable middle."
+      },
+      {
+       "type": "paragraph",
+       "text": "Use a simple priority order when comparing options:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Safety first, for yourself, your crew, and the public",
+        "Teamwork and communication second, keeping the company working together",
+        "Procedure and chain of command third, following policy and informing a supervisor"
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "An answer that protects life and safety almost always beats one that only protects convenience or pride."
+      },
+      {
+       "type": "paragraph",
+       "text": "Beware the lone-hero answer. Options where you single-handedly solve a dangerous situation, skip your supervisor, or act alone without telling anyone may sound brave but contradict how the fire service really works. Firefighters succeed as coordinated teams, not solo rescuers."
+      },
+      {
+       "type": "paragraph",
+       "text": "Read every option before choosing, then pick the response that is safe, cooperative, and by the book. Trust calm professionalism over drama, and these questions become much more predictable."
+      }
+     ]
+    },
+    {
+     "id": "verbal",
+     "title": "Verbal & Logic Tips",
+     "reference": "Original study guide",
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": "Verbal and logic questions measure vocabulary, reasoning, and your ability to spot relationships between ideas. Steady practice and careful elimination go a long way here."
+      },
+      {
+       "type": "paragraph",
+       "text": "Vocabulary: Build word knowledge by reading widely and learning common prefixes and roots. Re- means again, un- means not, -able means capable of. When you meet an unknown word, use the sentence context and word parts to estimate its meaning."
+      },
+      {
+       "type": "paragraph",
+       "text": "Analogies: These show a relationship between two words and ask you to match it. First state the link in a short sentence, such as glove is to hand as sock is to foot (both are worn on that body part). Then test each choice with the same sentence. The relationship type, not the topic, must match."
+      },
+      {
+       "type": "paragraph",
+       "text": "Deduction: Logic questions give facts and ask what must follow. Accept the statements as true even if they seem odd. A conclusion is valid only if it cannot be false when the facts are true. Beware of jumping to conclusions the facts do not fully support."
+      },
+      {
+       "type": "paragraph",
+       "text": "Eliminating distractors:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Cross out clearly wrong answers first to improve your odds.",
+        "Watch for absolute words (always, never, none) that often signal a trap.",
+        "Reject choices that are true in real life but unsupported by the question.",
+        "If two answers mean nearly the same thing, both are usually wrong."
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Quick tips:"
+      },
+      {
+       "type": "bullets",
+       "items": [
+        "Define the relationship before reading the options.",
+        "Re-read the exact question; some ask for the word that does NOT fit.",
+        "When stuck, eliminate and make an educated guess rather than leaving it blank, unless wrong answers are penalized."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "facts",
+   "title": "Key Facts",
+   "icon": "bulb",
+   "summary": "Quick-reference facts and formulas for every skill area, from the flashcard deck.",
+   "topics": [
+    {
+     "id": "fc_mechanical",
+     "title": "Mechanical Reasoning",
+     "reference": "Flashcard facts",
+     "blocks": [
+      {
+       "type": "table",
+       "headers": [
+        "Prompt",
+        "Answer"
+       ],
+       "rows": [
+        [
+         "What is mechanical advantage (MA) of a simple machine?",
+         "MA is the factor by which a machine multiplies input force. MA = output force / input force, or equivalently input distance / output distance."
+        ],
+        [
+         "How does a longer lever arm affect the force needed to lift a load?",
+         "A longer effort arm reduces the force needed. Moving the effort farther from the fulcrum increases leverage, so less force lifts the same load."
+        ],
+        [
+         "In a first-class lever, where is the fulcrum located?",
+         "The fulcrum sits between the effort and the load (like a seesaw). Examples include a crowbar and a pair of scissors."
+        ],
+        [
+         "How does adding more pulleys in a block-and-tackle change the effort required?",
+         "More supporting rope segments reduce effort but increase the length of rope you must pull. Effort force is divided by the number of supporting ropes."
+        ],
+        [
+         "When two gears mesh, how do their rotation directions compare?",
+         "Two directly meshed gears turn in opposite directions. Adding an idler gear between them makes the driver and driven gears turn the same way."
+        ],
+        [
+         "If a small gear drives a large gear, what happens to speed and torque?",
+         "The large gear turns slower but with more torque. Gear systems trade rotational speed for turning force."
+        ],
+        [
+         "What does Pascal's principle say about pressure in a confined fluid?",
+         "Pressure applied to a confined fluid is transmitted equally in all directions. This is why hydraulic systems can multiply force."
+        ],
+        [
+         "How does a wedge provide mechanical advantage?",
+         "A wedge converts a force applied to its blunt end into stronger sideways forces. A thinner, longer wedge gives greater mechanical advantage (axe, chisel)."
+        ],
+        [
+         "On a balanced lever, how are the two torques related?",
+         "For balance, the torques are equal: force1 x distance1 = force2 x distance2, where distances are measured from the fulcrum."
+        ],
+        [
+         "What is the relationship between water pressure and depth?",
+         "Water pressure increases with depth. The deeper the water, the greater the pressure pushing in all directions at that point."
+        ],
+        [
+         "How does an incline (ramp) reduce the force needed to raise a load?",
+         "A ramp lets you apply less force over a longer distance to gain the same height. A longer, gentler ramp requires less force."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fc_reading",
+     "title": "Reading Comprehension",
+     "reference": "Flashcard facts",
+     "blocks": [
+      {
+       "type": "table",
+       "headers": [
+        "Prompt",
+        "Answer"
+       ],
+       "rows": [
+        [
+         "What is the difference between the main idea and a supporting detail?",
+         "The main idea is the central point the passage makes. Supporting details are facts or examples that explain or back up that point."
+        ],
+        [
+         "Strategy: How should you handle 'According to the passage' questions?",
+         "Answer only from information stated in the text, not outside knowledge. Locate the exact sentence that supports your choice."
+        ],
+        [
+         "What does it mean to make an inference while reading?",
+         "An inference is a logical conclusion drawn from clues in the text plus reasoning. It is not directly stated but strongly implied."
+        ],
+        [
+         "Strategy: How can context clues help with unfamiliar words?",
+         "Read the surrounding sentences for definitions, examples, or contrasts. The other words often reveal the meaning of the unknown term."
+        ],
+        [
+         "What signal words indicate a contrast in a passage?",
+         "Words like however, but, although, yet, and on the other hand signal that a contrasting or opposing idea follows."
+        ],
+        [
+         "What signal words indicate a sequence or steps in a procedure?",
+         "Words like first, next, then, after, and finally show order. They are key when reading SOPs and step-by-step instructions."
+        ],
+        [
+         "Strategy: Why read the question before the passage on timed tests?",
+         "Previewing the question tells you what to look for, letting you scan for the relevant detail and save time."
+        ],
+        [
+         "How do you identify an author's purpose?",
+         "Ask whether the author is trying to inform, persuade, instruct, or entertain. The tone and word choice reveal the intent."
+        ],
+        [
+         "What is the difference between a fact and an opinion?",
+         "A fact can be verified or proven true. An opinion expresses a belief or judgment and often uses words like best, should, or feel."
+        ],
+        [
+         "Strategy: How should you treat absolute words like 'always' or 'never' in answer choices?",
+         "Be cautious; absolute answers are often wrong because they leave no exceptions. Make sure the passage truly supports such a strong claim."
+        ],
+        [
+         "What is a summary of a passage?",
+         "A summary restates the main idea and key points briefly in your own words. It leaves out minor details and examples."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fc_math",
+     "title": "Mathematics",
+     "reference": "Flashcard facts",
+     "blocks": [
+      {
+       "type": "table",
+       "headers": [
+        "Prompt",
+        "Answer"
+       ],
+       "rows": [
+        [
+         "What is the formula for the area of a rectangle?",
+         "Area = length x width. The result is in square units (e.g., square feet)."
+        ],
+        [
+         "What is the formula for the area of a circle?",
+         "Area = pi x radius squared (A = pi r^2). Use pi approximately 3.14."
+        ],
+        [
+         "What is the formula for the volume of a rectangular tank?",
+         "Volume = length x width x height. The result is in cubic units (e.g., cubic feet)."
+        ],
+        [
+         "How many gallons are in one cubic foot of water?",
+         "About 7.48 gallons. To convert cubic feet of a tank to gallons, multiply the volume by 7.48."
+        ],
+        [
+         "How do you calculate flow rate (GPM) from gallons and time?",
+         "GPM = total gallons / total minutes. For example, 600 gallons delivered in 4 minutes equals 150 GPM."
+        ],
+        [
+         "How do you find a percent of a number?",
+         "Convert the percent to a decimal and multiply. For example, 20% of 250 = 0.20 x 250 = 50."
+        ],
+        [
+         "How do you calculate percent increase?",
+         "Percent increase = (new value - original value) / original value x 100. A rise from 80 to 100 is (20/80) x 100 = 25%."
+        ],
+        [
+         "How do you find the average (mean) of a set of numbers?",
+         "Add all the values, then divide by how many values there are. Sum / count = mean."
+        ],
+        [
+         "What is the formula for distance using speed and time?",
+         "Distance = speed x time. So time = distance / speed, and speed = distance / time."
+        ],
+        [
+         "What is the perimeter of a rectangle?",
+         "Perimeter = 2 x (length + width). It is the total distance around the outside edge."
+        ],
+        [
+         "How do you convert a fraction to a percent?",
+         "Divide the numerator by the denominator, then multiply by 100. For example, 3/4 = 0.75 = 75%."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fc_spatial",
+     "title": "Spatial Reasoning",
+     "reference": "Flashcard facts",
+     "blocks": [
+      {
+       "type": "table",
+       "headers": [
+        "Prompt",
+        "Answer"
+       ],
+       "rows": [
+        [
+         "If you face north and turn right 90 degrees, which way do you face?",
+         "You face east. A right turn moves you clockwise: north to east to south to west."
+        ],
+        [
+         "If you face north and turn left 90 degrees, which way do you face?",
+         "You face west. A left turn moves you counterclockwise: north to west to south to east."
+        ],
+        [
+         "After a 180-degree turn, how does your direction change?",
+         "You face the exact opposite direction. North becomes south, east becomes west, and vice versa."
+        ],
+        [
+         "On a standard map, which directions are top, bottom, left, and right?",
+         "North is at the top, south at the bottom, east on the right, and west on the left, unless a compass rose shows otherwise."
+        ],
+        [
+         "Spatial rule: What is the fastest mental check for the shortest route on a grid map?",
+         "Count the blocks needed horizontally and vertically; the shortest path uses the fewest total turns and segments. Avoid backtracking."
+        ],
+        [
+         "When a 2D shape is rotated 90 degrees clockwise, how does a feature on top move?",
+         "A feature that was on top moves to the right side. Each 90-degree clockwise rotation shifts features one quarter-turn to the right."
+        ],
+        [
+         "What is the difference between a rotation and a reflection (mirror image)?",
+         "A rotation turns a shape but keeps its handedness. A reflection flips it, reversing left and right like a mirror."
+        ],
+        [
+         "When folding a flat net into a cube, what do you check about opposite faces?",
+         "Opposite faces of a cube are never adjacent on the net and never touch when folded. Faces one step apart on the net fold to be adjacent."
+        ],
+        [
+         "If you are heading east and the destination is behind and to your left, which way should you turn?",
+         "Turn left (toward north) and then continue, since the target is to the rear-left. A left turn while facing east points you north."
+        ],
+        [
+         "Spatial rule: How do you trace a path through a floor plan to an exit?",
+         "Follow corridors continuously without crossing walls, and track each turn relative to your current facing. Mark dead ends to avoid loops."
+        ],
+        [
+         "Two right turns in a row equal what single turn?",
+         "Two consecutive 90-degree right turns equal one 180-degree turn, so you end up facing the opposite direction."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fc_judgment",
+     "title": "Situational Judgment",
+     "reference": "Flashcard facts",
+     "blocks": [
+      {
+       "type": "table",
+       "headers": [
+        "Prompt",
+        "Answer"
+       ],
+       "rows": [
+        [
+         "Situational principle: What is the first priority at any emergency scene?",
+         "Life safety comes first, including your own. Scene safety and protecting people take priority over property and the environment."
+        ],
+        [
+         "Why should you follow the chain of command on an incident?",
+         "It keeps communication clear and prevents conflicting orders. Reporting through your supervisor maintains accountability and coordination."
+        ],
+        [
+         "Judgment: How should you treat all members of the public during a call?",
+         "Treat everyone with respect, fairness, and patience regardless of background. Professional, unbiased conduct builds public trust."
+        ],
+        [
+         "What is the best response when you do not know how to do an assigned task?",
+         "Ask for clarification or guidance rather than guessing. Admitting uncertainty and seeking help prevents mistakes and injuries."
+        ],
+        [
+         "Situational principle: How should a firefighter handle a coworker's safety violation?",
+         "Address it promptly and respectfully, and report serious hazards. Safety responsibility is shared by the whole crew."
+        ],
+        [
+         "Why is teamwork emphasized so heavily in the fire service?",
+         "Tasks like advancing hose lines and rescues require coordinated effort. Crews depend on each member doing their part reliably."
+        ],
+        [
+         "Judgment: What should you do if you witness misconduct by a peer?",
+         "Follow department policy and report it through proper channels honestly. Integrity requires acting even when it is uncomfortable."
+        ],
+        [
+         "How should you handle a stressful, high-pressure situation on duty?",
+         "Stay calm, focus on your training, and follow established procedures. Composure helps you make sound decisions and reassures others."
+        ],
+        [
+         "Situational principle: What is the value of double-checking equipment before a shift?",
+         "Routine checks catch failures before an emergency, ensuring gear works when lives depend on it. Reliability comes from preparation."
+        ],
+        [
+         "Why is honesty in reporting incidents important?",
+         "Accurate reports protect public safety, support investigations, and maintain credibility. Falsifying records erodes trust and can endanger others."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fc_verbal",
+     "title": "Verbal & Logical Reasoning",
+     "reference": "Flashcard facts",
+     "blocks": [
+      {
+       "type": "table",
+       "headers": [
+        "Prompt",
+        "Answer"
+       ],
+       "rows": [
+        [
+         "Verbal tip: What does the root 'flam' or 'flagr' mean?",
+         "It means to burn or fire, as in flammable, inflammable, and conflagration. Recognizing roots helps decode unfamiliar words."
+        ],
+        [
+         "What does the prefix 'pre-' mean, and give an example.",
+         "It means before. Examples include preheat (heat before) and prevent (act before something happens)."
+        ],
+        [
+         "Analogy tip: How do you solve a word analogy?",
+         "Identify the relationship in the first pair, then apply the same relationship to the second pair. For example, hot is to cold as up is to down (opposites)."
+        ],
+        [
+         "What does the prefix 'extin-' relate to in 'extinguish'?",
+         "Extinguish means to put out or quench a fire. The 'stinguere' root means to quench, so an extinguisher quenches flames."
+        ],
+        [
+         "What is the difference between a synonym and an antonym?",
+         "A synonym has a similar meaning (big/large). An antonym has the opposite meaning (hot/cold)."
+        ],
+        [
+         "Verbal tip: What does the suffix '-able' or '-ible' indicate?",
+         "It means capable of or able to be, as in combustible (able to burn) and portable (able to be carried)."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

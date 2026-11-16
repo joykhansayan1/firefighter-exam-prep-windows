@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Firefighter Exam Prep 2026",
+  "short_name": "Firefighter Prep",
+  "description": "Firefighter entrance written exam prep: 230+ original questions across mechanical reasoning, reading, math, spatial reasoning, situational judgment and verbal reasoning, full-length timed mocks, study guides and flashcards. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#F4F6F9",
+  "theme_color": "#1E3A8A",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
