@@ -864,7 +864,7 @@ function examInfoView() {
     <div class="card stack-sm"><h3>${icon('chart', '', 'width:18px;height:18px;color:var(--accent);vertical-align:-3px')} Skill areas</h3>
       ${Bank.topicList.map((d) => `<div class="stack-sm" style="gap:4px"><div class="row small"><span class="grow">${esc(d.name)}</span><span class="muted">${d.weight}%</span></div>${bar(d.weight / 25, 'var(--blue)')}</div>`).join('')}</div>
     <div class="card stack-sm"><h3>Eligibility (typical)</h3>${['At least 18 years old (some departments 21)', 'High school diploma or GED', "Valid driver's license; EMT certification in some departments", 'Pass a physical ability test (often the CPAT), background check and medical exam'].map(bullet).join('')}</div>
-    <div class="card stack-sm"><h3>Common tests you may sit</h3><div class="small muted">Depending on the agency, the written exam may be branded as the CJBAT, NCJOSI, EMPCO, or a state civil-service test. This app builds the underlying skills those exams measure.</div></div>
+    <div class="card stack-sm"><h3>Common tests you may sit</h3><div class="small muted">Depending on the department, the written exam may be a civil-service test or an entrance exam from a private test vendor. This app builds the underlying skills those exams measure.</div></div>
     <div class="list">${listRow('library', 'var(--accent)', 'Study Guides', '', 'tab', 'library')}${listRow('closedBook', 'var(--blue)', 'Sources & disclaimer', '', 'nav', 'sources')}</div></div>`;
 }
 
